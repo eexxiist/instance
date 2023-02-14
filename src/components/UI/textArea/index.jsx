@@ -3,7 +3,7 @@ import React from "react";
 const TextArea = ({name='textarea', id='textarea', maxWidth='300px', maxHeight='50vh'}) =>{
 
     const TextArea_style ={
-        marginLeft: '100px',
+        marginLeft: '300px',
         maxWidth: maxWidth,
         maxHeight: maxHeight
     }
